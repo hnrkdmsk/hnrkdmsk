@@ -12,9 +12,7 @@
 
 ## 🌱 Learning
 I'm constantly learning and exploring new technologies. Currently, I'm diving deeper into:
-- Advancements in AI and machine learning
-- Emerging trends in augmented reality
-- Best practices for building scalable and maintainable backend systems
+- Computer science 
 
 ## 📫 Get in Touch
 Feel free to reach out to me on [LinkedIn](https://de.linkedin.com/in/henrik-adamski) if you'd like to connect!
