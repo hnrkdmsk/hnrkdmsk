@@ -12,7 +12,4 @@
 
 ## 🌱 Learning
 I'm constantly learning and exploring new technologies. Currently, I'm diving deeper into:
-- Computer science 
-
-## 📫 Get in Touch
-Feel free to reach out to me on [LinkedIn](https://de.linkedin.com/in/henrik-adamski) if you'd like to connect!
+- Computer science
