@@ -17,4 +17,4 @@ I'm constantly learning and exploring new technologies. Currently, I'm diving de
 - Best practices for building scalable and maintainable backend systems
 
 ## 📫 Get in Touch
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://de.linkedin.com/in/henrik-adamski)) if you'd like to connect!
+Feel free to reach out to me on [LinkedIn](https://de.linkedin.com/in/henrik-adamski) if you'd like to connect!
